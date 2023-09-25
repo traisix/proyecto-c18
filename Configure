@@ -5,4 +5,8 @@
 #
 #	dom 24 sep 2023 10:23:15 -05		Juan Pablo Sandoval Rivera
 #
+# Script para validar paquetes instalados, comandos o programas instalados
+# para proceder con la instalacion
+#
+
 exit 0
